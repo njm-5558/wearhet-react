@@ -8,8 +8,11 @@ color: blue;}
 }
 .container{
   border: 1px solid black;
+  width: 50%;
+  display: block;
+ margin: 0 auto;
   box-shadow:5px 5px 5px rgb(0,0,0,0.2);
-  padding: 70px;
+ padding: 20px;
   margin-top: 120px ;
 }
 .GitHub-link{
@@ -19,5 +22,4 @@ color: blue;}
 .feature{font-size: 28px;
 font-weight: bold;}
 
-.appCity{ padding: 20px;
-}
+
