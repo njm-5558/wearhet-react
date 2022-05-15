@@ -1,15 +1,20 @@
 
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
 import Weather from "./Weather";
 
 function App() {
   return (
     <div>
       <div className="container">
+        <div className="wetheapp-heading">
+          <h1>weather app</h1>
+        </div>
+
         <div className="row">
-          <div className="col-9">
-            <h1 className="card-title">Tehran</h1>
-            <h2 className="card-subtitle mb-2 text-muted" id="date">
+          <div className="col-9 appCity">
+            <h1 className="city">Tehran</h1>
+            <h2 className="date">
               Sunday 1:19{" "}
             </h2>
 
