@@ -1,25 +1,7 @@
-.wetheapp-heading{text-align: center;
-font-size: 48px;
-color: red;}
+.App{max-width: 700px;
+margin: 0 auto;}
 
-.search-form{
-  padding: 50px 20px;
-  margin: 10px; 
+ .App footer{font-size: 16px;
+    margin: 10px 0;
 }
-.container{
-  border: 1px solid black;
-  width: 50%;
-  display: block;
- margin: 0 auto;
-  box-shadow:5px 5px 5px rgb(0,0,0,0.2);
- padding: 20px;
-  margin-top: 120px ;
-}
-.GitHub-link{
-  padding:10px 700px;
-}
-
-.feature{font-size: 28px;
-font-weight: bold;}
-
 
